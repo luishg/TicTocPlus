@@ -1,0 +1,45 @@
+{
+    "appKeys": {
+        "KEY_BAT": 4,
+        "KEY_BLUE": 3,
+        "KEY_CIRCLE": 1,
+        "KEY_HOUR": 2,
+        "dummy": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Uptodown.com",
+    "longName": "Tictoc Plus Uptodown.com",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/battery_full.png",
+                "name": "IMAGE_BATT_FULL",
+                "type": "png"
+            },
+            {
+                "file": "images/ini_ttp.png",
+                "menuIcon": true,
+                "name": "icon",
+                "type": "png"
+            },
+            {
+                "file": "images/16x16-black-white-android-rfid-signal.png",
+                "name": "IMAGE_BT",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TicToc Plus",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "92027422-e9ff-4683-b90f-9649e1e881fa",
+    "versionLabel": "1.65",
+    "watchapp": {
+        "watchface": true
+    }
+}
